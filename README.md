@@ -1,6 +1,6 @@
 # js-host-searcher
 
-Searching domains used n web page
+Searching domains used on web page
 
 #### How to use:
 
